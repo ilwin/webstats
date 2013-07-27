@@ -9,6 +9,7 @@
     <style>div {outline:1px #EEEEEE solid}</style>
 </head>
 <body>
+    <h1>TEST</h1>
     <div class="container-fluid">
         <div class="row">
             <div class="span5"><img src="../img/logo.png" /></div>
